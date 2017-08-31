@@ -1,0 +1,10 @@
+framework module TouchSDK {
+  umbrella header "TouchSDK.h"
+
+  export *
+  module * { export * }
+}
+
+module TouchSDK.Swift {
+    header "TouchSDK-Swift.h"
+}

@@ -1,0 +1,1034 @@
+{
+  "warnings": [
+    {
+      "file": "/Users/mykolazaporozhchenko/Documents/Job/mc2-touch-ios/TouchSDK/ChatView/CardManager.swift",
+      "line": 14,
+      "symbol": "CardManager",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mykolazaporozhchenko/Documents/Job/mc2-touch-ios/TouchSDK/ChatView/CardManager.swift",
+      "line": 20,
+      "symbol": "CardManager.errors",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mykolazaporozhchenko/Documents/Job/mc2-touch-ios/TouchSDK/ChatView/CardManager.swift",
+      "line": 117,
+      "symbol": "CardManager.prefetchCards(tenantId:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mykolazaporozhchenko/Documents/Job/mc2-touch-ios/TouchSDK/ChatView/CardManager.swift",
+      "line": 220,
+      "symbol": "CardManager.aboutView",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mykolazaporozhchenko/Documents/Job/mc2-touch-ios/TouchSDK/ChatView/CardManager.swift",
+      "line": 222,
+      "symbol": "CardManager.getAboutView(callback:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mykolazaporozhchenko/Documents/Job/mc2-touch-ios/TouchSDK/ChatView/Chat.swift",
+      "line": 15,
+      "symbol": "ChatState",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mykolazaporozhchenko/Documents/Job/mc2-touch-ios/TouchSDK/ChatView/Chat.swift",
+      "line": 16,
+      "symbol": "ChatState.Joined",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mykolazaporozhchenko/Documents/Job/mc2-touch-ios/TouchSDK/ChatView/Chat.swift",
+      "line": 17,
+      "symbol": "ChatState.NotJoined",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mykolazaporozhchenko/Documents/Job/mc2-touch-ios/TouchSDK/ChatView/Chat.swift",
+      "line": 18,
+      "symbol": "ChatState.Joining",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mykolazaporozhchenko/Documents/Job/mc2-touch-ios/TouchSDK/ChatView/Chat.swift",
+      "line": 20,
+      "symbol": "ChatState.isJoined",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mykolazaporozhchenko/Documents/Job/mc2-touch-ios/TouchSDK/ChatView/Chat.swift",
+      "line": 26,
+      "symbol": "Chat",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mykolazaporozhchenko/Documents/Job/mc2-touch-ios/TouchSDK/ChatView/Chat.swift",
+      "line": 28,
+      "symbol": "Chat.messages",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mykolazaporozhchenko/Documents/Job/mc2-touch-ios/TouchSDK/ChatView/Chat.swift",
+      "line": 29,
+      "symbol": "Chat.state",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mykolazaporozhchenko/Documents/Job/mc2-touch-ios/TouchSDK/ChatView/Chat.swift",
+      "line": 30,
+      "symbol": "Chat.tenantId",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mykolazaporozhchenko/Documents/Job/mc2-touch-ios/TouchSDK/ChatView/Chat.swift",
+      "line": 73,
+      "symbol": "Chat.join()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mykolazaporozhchenko/Documents/Job/mc2-touch-ios/TouchSDK/ChatView/Chat.swift",
+      "line": 294,
+      "symbol": "Chat.leave()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mykolazaporozhchenko/Documents/Job/mc2-touch-ios/TouchSDK/ChatView/ChatManager.swift",
+      "line": 14,
+      "symbol": "ChatManager",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mykolazaporozhchenko/Documents/Job/mc2-touch-ios/TouchSDK/ChatView/ChatManager.swift",
+      "line": 47,
+      "symbol": "ChatManager.getTenants(cb:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mykolazaporozhchenko/Documents/Job/mc2-touch-ios/TouchSDK/ChatView/ChatManager.swift",
+      "line": 60,
+      "symbol": "ChatManager.getChat(tenantId:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mykolazaporozhchenko/Documents/Job/mc2-touch-ios/TouchSDK/ChatView/ChatManager.swift",
+      "line": 70,
+      "symbol": "ChatManager.getChatsWithLastMessages(callback:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mykolazaporozhchenko/Documents/Job/mc2-touch-ios/TouchSDK/ChatView/ChatManager.swift",
+      "line": 94,
+      "symbol": "ChatManager.clearAllHistory()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mykolazaporozhchenko/Documents/Job/mc2-touch-ios/TouchSDK/ChatView/ChatManager.swift",
+      "line": 117,
+      "symbol": "ChatManager.saveFavouriteToFile(favourite:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mykolazaporozhchenko/Documents/Job/mc2-touch-ios/TouchSDK/ChatView/ChatManager.swift",
+      "line": 130,
+      "symbol": "ChatManager.removeFavouriteFromFile(favourite:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mykolazaporozhchenko/Documents/Job/mc2-touch-ios/TouchSDK/ChatView/ChatManager.swift",
+      "line": 141,
+      "symbol": "ChatManager.favouritesFromFile()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mykolazaporozhchenko/Documents/Job/mc2-touch-ios/TouchSDK/ChatView/ChatViewController.swift",
+      "line": 152,
+      "symbol": "ChatViewController.viewDidLoad()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mykolazaporozhchenko/Documents/Job/mc2-touch-ios/TouchSDK/ChatView/ChatViewController.swift",
+      "line": 234,
+      "symbol": "ChatViewController.viewWillAppear(animated:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mykolazaporozhchenko/Documents/Job/mc2-touch-ios/TouchSDK/ChatView/ChatViewController.swift",
+      "line": 249,
+      "symbol": "ChatViewController.viewDidAppear(animated:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mykolazaporozhchenko/Documents/Job/mc2-touch-ios/TouchSDK/ChatView/ChatViewController.swift",
+      "line": 254,
+      "symbol": "ChatViewController.viewWillDisappear(animated:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mykolazaporozhchenko/Documents/Job/mc2-touch-ios/TouchSDK/ChatView/ChatViewController.swift",
+      "line": 260,
+      "symbol": "ChatViewController.viewDidDisappear(animated:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mykolazaporozhchenko/Documents/Job/mc2-touch-ios/TouchSDK/ChatView/ChatViewController.swift",
+      "line": 272,
+      "symbol": "ChatViewController.viewWillLayoutSubviews()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mykolazaporozhchenko/Documents/Job/mc2-touch-ios/TouchSDK/ChatView/ChatViewController.swift",
+      "line": 276,
+      "symbol": "ChatViewController.updateViewConstraints()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mykolazaporozhchenko/Documents/Job/mc2-touch-ios/TouchSDK/ChatView/ChatViewController.swift",
+      "line": 280,
+      "symbol": "ChatViewController.preferredStatusBarStyle()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mykolazaporozhchenko/Documents/Job/mc2-touch-ios/TouchSDK/ChatView/Config.swift",
+      "line": 11,
+      "symbol": "Config",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mykolazaporozhchenko/Documents/Job/mc2-touch-ios/TouchSDK/ChatView/Config.swift",
+      "line": 12,
+      "symbol": "Config.apiHost",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mykolazaporozhchenko/Documents/Job/mc2-touch-ios/TouchSDK/ChatView/Config.swift",
+      "line": 13,
+      "symbol": "Config.apiVersion",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mykolazaporozhchenko/Documents/Job/mc2-touch-ios/TouchSDK/ChatView/Config.swift",
+      "line": 14,
+      "symbol": "Config.apiToken",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mykolazaporozhchenko/Documents/Job/mc2-touch-ios/TouchSDK/ChatView/Config.swift",
+      "line": 22,
+      "symbol": "Config.clientId",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mykolazaporozhchenko/Documents/Job/mc2-touch-ios/TouchSDK/ChatView/Config.swift",
+      "line": 55,
+      "symbol": "Config.currentEnvironment",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mykolazaporozhchenko/Documents/Job/mc2-touch-ios/TouchSDK/ChatView/Config.swift",
+      "line": 57,
+      "symbol": "Config.environments",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mykolazaporozhchenko/Documents/Job/mc2-touch-ios/TouchSDK/ChatView/Config.swift",
+      "line": 88,
+      "symbol": "Config.setEnvironment(name:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mykolazaporozhchenko/Documents/Job/mc2-touch-ios/TouchSDK/ChatView/Config.swift",
+      "line": 97,
+      "symbol": "Config.clearAppData()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mykolazaporozhchenko/Documents/Job/mc2-touch-ios/TouchSDK/ChatView/Message.swift",
+      "line": 11,
+      "symbol": "MessageViewType",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mykolazaporozhchenko/Documents/Job/mc2-touch-ios/TouchSDK/ChatView/Message.swift",
+      "line": 12,
+      "symbol": "MessageViewType.Default",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mykolazaporozhchenko/Documents/Job/mc2-touch-ios/TouchSDK/ChatView/Message.swift",
+      "line": 13,
+      "symbol": "MessageViewType.Occupant",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mykolazaporozhchenko/Documents/Job/mc2-touch-ios/TouchSDK/ChatView/Message.swift",
+      "line": 14,
+      "symbol": "MessageViewType.Typing",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mykolazaporozhchenko/Documents/Job/mc2-touch-ios/TouchSDK/ChatView/Message.swift",
+      "line": 17,
+      "symbol": "Message",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mykolazaporozhchenko/Documents/Job/mc2-touch-ios/TouchSDK/ChatView/Message.swift",
+      "line": 18,
+      "symbol": "Message.id",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mykolazaporozhchenko/Documents/Job/mc2-touch-ios/TouchSDK/ChatView/Message.swift",
+      "line": 19,
+      "symbol": "Message.tenantId",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mykolazaporozhchenko/Documents/Job/mc2-touch-ios/TouchSDK/ChatView/Message.swift",
+      "line": 20,
+      "symbol": "Message.nickname",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mykolazaporozhchenko/Documents/Job/mc2-touch-ios/TouchSDK/ChatView/Message.swift",
+      "line": 21,
+      "symbol": "Message.text",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mykolazaporozhchenko/Documents/Job/mc2-touch-ios/TouchSDK/ChatView/Message.swift",
+      "line": 22,
+      "symbol": "Message.time",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mykolazaporozhchenko/Documents/Job/mc2-touch-ios/TouchSDK/ChatView/Message.swift",
+      "line": 23,
+      "symbol": "Message.orderValue",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mykolazaporozhchenko/Documents/Job/mc2-touch-ios/TouchSDK/ChatView/Message.swift",
+      "line": 24,
+      "symbol": "Message.groupId",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mykolazaporozhchenko/Documents/Job/mc2-touch-ios/TouchSDK/ChatView/Message.swift",
+      "line": 25,
+      "symbol": "Message.hidden",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mykolazaporozhchenko/Documents/Job/mc2-touch-ios/TouchSDK/ChatView/Message.swift",
+      "line": 30,
+      "symbol": "Message.viewType",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mykolazaporozhchenko/Documents/Job/mc2-touch-ios/TouchSDK/ChatView/Message.swift",
+      "line": 42,
+      "symbol": "Message.needsTransition",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mykolazaporozhchenko/Documents/Job/mc2-touch-ios/TouchSDK/ChatView/Message.swift",
+      "line": 79,
+      "symbol": "Message.isMine",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mykolazaporozhchenko/Documents/Job/mc2-touch-ios/TouchSDK/ChatView/Message.swift",
+      "line": 83,
+      "symbol": "Message.viewAlpha",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mykolazaporozhchenko/Documents/Job/mc2-touch-ios/TouchSDK/ChatView/Message.swift",
+      "line": 87,
+      "symbol": "Message.viewColorProperty",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mykolazaporozhchenko/Documents/Job/mc2-touch-ios/TouchSDK/ChatView/Message.swift",
+      "line": 91,
+      "symbol": "Message.defaultViewColorCode",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mykolazaporozhchenko/Documents/Job/mc2-touch-ios/TouchSDK/ChatView/Reachability.swift",
+      "line": 29,
+      "symbol": "ReachabilityError",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mykolazaporozhchenko/Documents/Job/mc2-touch-ios/TouchSDK/ChatView/Reachability.swift",
+      "line": 30,
+      "symbol": "ReachabilityError.FailedToCreateWithAddress",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mykolazaporozhchenko/Documents/Job/mc2-touch-ios/TouchSDK/ChatView/Reachability.swift",
+      "line": 31,
+      "symbol": "ReachabilityError.FailedToCreateWithHostname",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mykolazaporozhchenko/Documents/Job/mc2-touch-ios/TouchSDK/ChatView/Reachability.swift",
+      "line": 32,
+      "symbol": "ReachabilityError.UnableToSetCallback",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mykolazaporozhchenko/Documents/Job/mc2-touch-ios/TouchSDK/ChatView/Reachability.swift",
+      "line": 33,
+      "symbol": "ReachabilityError.UnableToSetDispatchQueue",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mykolazaporozhchenko/Documents/Job/mc2-touch-ios/TouchSDK/ChatView/Reachability.swift",
+      "line": 36,
+      "symbol": "ReachabilityChangedNotification",
+      "symbol_kind": "source.lang.swift.decl.var.global",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mykolazaporozhchenko/Documents/Job/mc2-touch-ios/TouchSDK/ChatView/ServiceLocator.swift",
+      "line": 14,
+      "symbol": "ServiceLocator",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mykolazaporozhchenko/Documents/Job/mc2-touch-ios/TouchSDK/ChatView/ServiceLocator.swift",
+      "line": 16,
+      "symbol": "ServiceLocator.chatManager",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mykolazaporozhchenko/Documents/Job/mc2-touch-ios/TouchSDK/ChatView/ServiceLocator.swift",
+      "line": 17,
+      "symbol": "ServiceLocator.config",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mykolazaporozhchenko/Documents/Job/mc2-touch-ios/TouchSDK/ChatView/ServiceLocator.swift",
+      "line": 18,
+      "symbol": "ServiceLocator.cardManager",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mykolazaporozhchenko/Documents/Job/mc2-touch-ios/TouchSDK/ChatView/ServiceLocator.swift",
+      "line": 31,
+      "symbol": "ServiceLocator.initialize()",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mykolazaporozhchenko/Documents/Job/mc2-touch-ios/TouchSDK/ChatView/Tenant.swift",
+      "line": 13,
+      "symbol": "TenantResources",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mykolazaporozhchenko/Documents/Job/mc2-touch-ios/TouchSDK/ChatView/Tenant.swift",
+      "line": 14,
+      "symbol": "TenantResources.HeaderImage",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mykolazaporozhchenko/Documents/Job/mc2-touch-ios/TouchSDK/ChatView/Tenant.swift",
+      "line": 15,
+      "symbol": "TenantResources.Logo",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mykolazaporozhchenko/Documents/Job/mc2-touch-ios/TouchSDK/ChatView/Tenant.swift",
+      "line": 16,
+      "symbol": "TenantResources.BackgroundImage",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mykolazaporozhchenko/Documents/Job/mc2-touch-ios/TouchSDK/ChatView/Tenant.swift",
+      "line": 19,
+      "symbol": "TenantProperties",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mykolazaporozhchenko/Documents/Job/mc2-touch-ios/TouchSDK/ChatView/Tenant.swift",
+      "line": 20,
+      "symbol": "TenantProperties.ColorPrimary",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mykolazaporozhchenko/Documents/Job/mc2-touch-ios/TouchSDK/ChatView/Tenant.swift",
+      "line": 21,
+      "symbol": "TenantProperties.ColorSecondary",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mykolazaporozhchenko/Documents/Job/mc2-touch-ios/TouchSDK/ChatView/Tenant.swift",
+      "line": 22,
+      "symbol": "TenantProperties.FontColor",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mykolazaporozhchenko/Documents/Job/mc2-touch-ios/TouchSDK/ChatView/Tenant.swift",
+      "line": 23,
+      "symbol": "TenantProperties.FontFamily",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mykolazaporozhchenko/Documents/Job/mc2-touch-ios/TouchSDK/ChatView/Tenant.swift",
+      "line": 24,
+      "symbol": "TenantProperties.FontSize",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mykolazaporozhchenko/Documents/Job/mc2-touch-ios/TouchSDK/ChatView/Tenant.swift",
+      "line": 25,
+      "symbol": "TenantProperties.FontStyle",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mykolazaporozhchenko/Documents/Job/mc2-touch-ios/TouchSDK/ChatView/Tenant.swift",
+      "line": 26,
+      "symbol": "TenantProperties.FontWeight",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mykolazaporozhchenko/Documents/Job/mc2-touch-ios/TouchSDK/ChatView/Tenant.swift",
+      "line": 27,
+      "symbol": "TenantProperties.Shadow",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mykolazaporozhchenko/Documents/Job/mc2-touch-ios/TouchSDK/ChatView/Tenant.swift",
+      "line": 28,
+      "symbol": "TenantProperties.TitleColor",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mykolazaporozhchenko/Documents/Job/mc2-touch-ios/TouchSDK/ChatView/Tenant.swift",
+      "line": 29,
+      "symbol": "TenantProperties.TitleFont",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mykolazaporozhchenko/Documents/Job/mc2-touch-ios/TouchSDK/ChatView/Tenant.swift",
+      "line": 30,
+      "symbol": "TenantProperties.LogoURL",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mykolazaporozhchenko/Documents/Job/mc2-touch-ios/TouchSDK/ChatView/Tenant.swift",
+      "line": 33,
+      "symbol": "Tenant",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mykolazaporozhchenko/Documents/Job/mc2-touch-ios/TouchSDK/ChatView/Tenant.swift",
+      "line": 34,
+      "symbol": "Tenant.favourite",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mykolazaporozhchenko/Documents/Job/mc2-touch-ios/TouchSDK/ChatView/Tenant.swift",
+      "line": 36,
+      "symbol": "Tenant.id",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mykolazaporozhchenko/Documents/Job/mc2-touch-ios/TouchSDK/ChatView/Tenant.swift",
+      "line": 37,
+      "symbol": "Tenant.accountId",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mykolazaporozhchenko/Documents/Job/mc2-touch-ios/TouchSDK/ChatView/Tenant.swift",
+      "line": 38,
+      "symbol": "Tenant.tenantOrgName",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mykolazaporozhchenko/Documents/Job/mc2-touch-ios/TouchSDK/ChatView/Tenant.swift",
+      "line": 39,
+      "symbol": "Tenant.contactEmail",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mykolazaporozhchenko/Documents/Job/mc2-touch-ios/TouchSDK/ChatView/Tenant.swift",
+      "line": 40,
+      "symbol": "Tenant.state",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mykolazaporozhchenko/Documents/Job/mc2-touch-ios/TouchSDK/ChatView/Tenant.swift",
+      "line": 41,
+      "symbol": "Tenant.shortDescription",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mykolazaporozhchenko/Documents/Job/mc2-touch-ios/TouchSDK/ChatView/Tenant.swift",
+      "line": 42,
+      "symbol": "Tenant.tenantJid",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mykolazaporozhchenko/Documents/Job/mc2-touch-ios/TouchSDK/ChatView/Tenant.swift",
+      "line": 43,
+      "symbol": "Tenant.tenantBotJid",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mykolazaporozhchenko/Documents/Job/mc2-touch-ios/TouchSDK/ChatView/Tenant.swift",
+      "line": 44,
+      "symbol": "Tenant.category",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mykolazaporozhchenko/Documents/Job/mc2-touch-ios/TouchSDK/ChatView/Tenant.swift",
+      "line": 45,
+      "symbol": "Tenant.sessionsCapacity",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mykolazaporozhchenko/Documents/Job/mc2-touch-ios/TouchSDK/ChatView/Tenant.swift",
+      "line": 46,
+      "symbol": "Tenant.tenantAddresses",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mykolazaporozhchenko/Documents/Job/mc2-touch-ios/TouchSDK/ChatView/Tenant.swift",
+      "line": 47,
+      "symbol": "Tenant.tenantTags",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mykolazaporozhchenko/Documents/Job/mc2-touch-ios/TouchSDK/ChatView/Tenant.swift",
+      "line": 48,
+      "symbol": "Tenant.tenantFaqs",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mykolazaporozhchenko/Documents/Job/mc2-touch-ios/TouchSDK/ChatView/Tenant.swift",
+      "line": 49,
+      "symbol": "Tenant.tenantProperties",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mykolazaporozhchenko/Documents/Job/mc2-touch-ios/TouchSDK/ChatView/Tenant.swift",
+      "line": 56,
+      "symbol": "Tenant.descriptions",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mykolazaporozhchenko/Documents/Job/mc2-touch-ios/TouchSDK/ChatView/Tenant.swift",
+      "line": 57,
+      "symbol": "Tenant.description",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mykolazaporozhchenko/Documents/Job/mc2-touch-ios/TouchSDK/ChatView/Tenant.swift",
+      "line": 61,
+      "symbol": "Tenant.getState()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mykolazaporozhchenko/Documents/Job/mc2-touch-ios/TouchSDK/ChatView/Tenant.swift",
+      "line": 65,
+      "symbol": "Tenant.getResourceURL(resource:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mykolazaporozhchenko/Documents/Job/mc2-touch-ios/TouchSDK/ChatView/Tenant.swift",
+      "line": 70,
+      "symbol": "Tenant.getProperty(propertyType:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mykolazaporozhchenko/Documents/Job/mc2-touch-ios/TouchSDK/ChatView/Tenant.swift",
+      "line": 132,
+      "symbol": "TenantAddress",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mykolazaporozhchenko/Documents/Job/mc2-touch-ios/TouchSDK/ChatView/Tenant.swift",
+      "line": 133,
+      "symbol": "TenantAddress.firstAddressLine",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mykolazaporozhchenko/Documents/Job/mc2-touch-ios/TouchSDK/ChatView/Tenant.swift",
+      "line": 134,
+      "symbol": "TenantAddress.secondAddressLine",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mykolazaporozhchenko/Documents/Job/mc2-touch-ios/TouchSDK/ChatView/Tenant.swift",
+      "line": 135,
+      "symbol": "TenantAddress.city",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mykolazaporozhchenko/Documents/Job/mc2-touch-ios/TouchSDK/ChatView/Tenant.swift",
+      "line": 136,
+      "symbol": "TenantAddress.stateOrProvince",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mykolazaporozhchenko/Documents/Job/mc2-touch-ios/TouchSDK/ChatView/Tenant.swift",
+      "line": 137,
+      "symbol": "TenantAddress.postalCode",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mykolazaporozhchenko/Documents/Job/mc2-touch-ios/TouchSDK/ChatView/Tenant.swift",
+      "line": 138,
+      "symbol": "TenantAddress.businessHours",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mykolazaporozhchenko/Documents/Job/mc2-touch-ios/TouchSDK/ChatView/Tenant.swift",
+      "line": 139,
+      "symbol": "TenantAddress.phones",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mykolazaporozhchenko/Documents/Job/mc2-touch-ios/TouchSDK/ChatView/Tenant.swift",
+      "line": 140,
+      "symbol": "TenantAddress.latitude",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mykolazaporozhchenko/Documents/Job/mc2-touch-ios/TouchSDK/ChatView/Tenant.swift",
+      "line": 141,
+      "symbol": "TenantAddress.longitude",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mykolazaporozhchenko/Documents/Job/mc2-touch-ios/TouchSDK/ChatView/Tenant.swift",
+      "line": 143,
+      "symbol": "TenantAddress.getFullAddress()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mykolazaporozhchenko/Documents/Job/mc2-touch-ios/TouchSDK/ChatView/Tenant.swift",
+      "line": 148,
+      "symbol": "TenantBusinessHour",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mykolazaporozhchenko/Documents/Job/mc2-touch-ios/TouchSDK/ChatView/Tenant.swift",
+      "line": 149,
+      "symbol": "TenantBusinessHour.dayOfWeek",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mykolazaporozhchenko/Documents/Job/mc2-touch-ios/TouchSDK/ChatView/Tenant.swift",
+      "line": 150,
+      "symbol": "TenantBusinessHour.startWorkTime",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mykolazaporozhchenko/Documents/Job/mc2-touch-ios/TouchSDK/ChatView/Tenant.swift",
+      "line": 151,
+      "symbol": "TenantBusinessHour.endWorkTime",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mykolazaporozhchenko/Documents/Job/mc2-touch-ios/TouchSDK/ChatView/Tenant.swift",
+      "line": 153,
+      "symbol": "TenantBusinessHour.getDayOfWeek()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mykolazaporozhchenko/Documents/Job/mc2-touch-ios/TouchSDK/ChatView/Tenant.swift",
+      "line": 158,
+      "symbol": "TenantFaq",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mykolazaporozhchenko/Documents/Job/mc2-touch-ios/TouchSDK/ChatView/Tenant.swift",
+      "line": 159,
+      "symbol": "TenantFaq.question",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mykolazaporozhchenko/Documents/Job/mc2-touch-ios/TouchSDK/ChatView/Tenant.swift",
+      "line": 160,
+      "symbol": "TenantFaq.answer",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mykolazaporozhchenko/Documents/Job/mc2-touch-ios/TouchSDK/ChatView/Tenant.swift",
+      "line": 163,
+      "symbol": "TenantProperty",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mykolazaporozhchenko/Documents/Job/mc2-touch-ios/TouchSDK/ChatView/Tenant.swift",
+      "line": 164,
+      "symbol": "TenantProperty.name",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mykolazaporozhchenko/Documents/Job/mc2-touch-ios/TouchSDK/ChatView/Tenant.swift",
+      "line": 165,
+      "symbol": "TenantProperty.value",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mykolazaporozhchenko/Documents/Job/mc2-touch-ios/TouchSDK/ChatView/Tenant.swift",
+      "line": 168,
+      "symbol": "TenantPhone",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mykolazaporozhchenko/Documents/Job/mc2-touch-ios/TouchSDK/ChatView/Tenant.swift",
+      "line": 169,
+      "symbol": "TenantPhone.phone",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mykolazaporozhchenko/Documents/Job/mc2-touch-ios/TouchSDK/ChatView/Tenant.swift",
+      "line": 172,
+      "symbol": "TenantChatState",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mykolazaporozhchenko/Documents/Job/mc2-touch-ios/TouchSDK/ChatView/Tenant.swift",
+      "line": 173,
+      "symbol": "TenantChatState.Active",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mykolazaporozhchenko/Documents/Job/mc2-touch-ios/TouchSDK/ChatView/Tenant.swift",
+      "line": 174,
+      "symbol": "TenantChatState.Inactive",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mykolazaporozhchenko/Documents/Job/mc2-touch-ios/TouchSDK/ChatView/Tenant.swift",
+      "line": 177,
+      "symbol": "TenantDayOfWeek",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mykolazaporozhchenko/Documents/Job/mc2-touch-ios/TouchSDK/ChatView/Tenant.swift",
+      "line": 178,
+      "symbol": "TenantDayOfWeek.Monday",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mykolazaporozhchenko/Documents/Job/mc2-touch-ios/TouchSDK/ChatView/Tenant.swift",
+      "line": 179,
+      "symbol": "TenantDayOfWeek.Tuesday",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mykolazaporozhchenko/Documents/Job/mc2-touch-ios/TouchSDK/ChatView/Tenant.swift",
+      "line": 180,
+      "symbol": "TenantDayOfWeek.Wednesday",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mykolazaporozhchenko/Documents/Job/mc2-touch-ios/TouchSDK/ChatView/Tenant.swift",
+      "line": 181,
+      "symbol": "TenantDayOfWeek.Thursday",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mykolazaporozhchenko/Documents/Job/mc2-touch-ios/TouchSDK/ChatView/Tenant.swift",
+      "line": 182,
+      "symbol": "TenantDayOfWeek.Friday",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mykolazaporozhchenko/Documents/Job/mc2-touch-ios/TouchSDK/ChatView/Tenant.swift",
+      "line": 183,
+      "symbol": "TenantDayOfWeek.Saturday",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mykolazaporozhchenko/Documents/Job/mc2-touch-ios/TouchSDK/ChatView/Tenant.swift",
+      "line": 184,
+      "symbol": "TenantDayOfWeek.Sunday",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mykolazaporozhchenko/Documents/Job/mc2-touch-ios/TouchSDK/ChatView/TimeStamp.swift",
+      "line": 11,
+      "symbol": "TimeStamp",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mykolazaporozhchenko/Documents/Job/mc2-touch-ios/TouchSDK/ChatView/TimeStamp.swift",
+      "line": 12,
+      "symbol": "TimeStamp.textValue",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mykolazaporozhchenko/Documents/Job/mc2-touch-ios/TouchSDK/ChatView/TimeStamp.swift",
+      "line": 13,
+      "symbol": "TimeStamp.sortingIndex",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mykolazaporozhchenko/Documents/Job/mc2-touch-ios/TouchSDK/ChatView/TimeStamp.swift",
+      "line": 24,
+      "symbol": "==(_:_:)",
+      "symbol_kind": "source.lang.swift.decl.function.free",
+      "warning": "undocumented"
+    }
+  ],
+  "source_directory": "/Users/mykolazaporozhchenko/Documents/Job/mc2-touch-ios/TouchSDK"
+}
